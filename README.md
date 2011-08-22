@@ -1,8 +1,8 @@
 # Legal Jargon
 
-[http://download.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java](This is not a joke.)
+[http://download.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java](This is not a joke).
 
-Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.
+**Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.**
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -14,4 +14,4 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ![Legal](http://imgur.com/eN5Te.jpg "Legal")
 
-*Fig 1:* Oracle's legal team go after a 7-year old in the Ukraine for a HelloWorld copyright violation.
+**Fig 1:** Oracle's legal team go after a 7-year old in the Ukraine for a HelloWorld copyright violation.
