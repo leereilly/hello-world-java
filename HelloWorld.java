@@ -35,8 +35,12 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
+	  int a=10;
+	  int b=20;
+	System.out.println("The Result is:" +(a+b));
     System.out.println("Hello, World");
     System.out.println("Hello, DevOps");
+
   }
 
 }
