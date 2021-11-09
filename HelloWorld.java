@@ -42,6 +42,7 @@ public class HelloWorld {
     System.out.println("Hello, DevOps");
     System.out.println("pollSCM Occer");
     System.out.println("Build Periodically");
+    System.out.println("Webhooks");
   }
 
 }
