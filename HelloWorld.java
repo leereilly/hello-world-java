@@ -1,4 +1,5 @@
 /*
+ *
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -34,6 +35,14 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
+	  int a=10;
+	  int b=20;
+	System.out.println("The Result is:" +(a+b));
     System.out.println("Hello, World");
+    System.out.println("Hello, DevOps");
+    System.out.println("pollSCM Occer");
+    System.out.println("Build Periodically");
+    System.out.println("Webhooks");
   }
+
 }
